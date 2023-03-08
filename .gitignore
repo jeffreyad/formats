@@ -1,1 +1,4 @@
 .Rproj.user
+formats.Rcheck/
+formats*.tar.gz
+formats*.tgz
